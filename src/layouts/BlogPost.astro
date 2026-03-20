@@ -40,7 +40,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				margin-bottom: 1em;
 				padding: 1em 0;
 				text-align: center;
-				line-height: 1;
+				line-height: 1.2;
 			}
 			.title h1 {
 				margin: 0 0 0.5em 0;
@@ -51,6 +51,14 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			}
 			.last-updated-on {
 				font-style: italic;
+			}
+			@media (max-width: 720px) {
+				.title h1 {
+					font-size: 2rem;
+				}
+				.prose {
+					padding: 0;
+				}
 			}
 		</style>
 	</head>
