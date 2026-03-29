@@ -1,7 +1,7 @@
 ---
 title: 'Managing a Living World TTRPG'
 description: 'A deep dive on how I managed 30 players with 7 GMs.'
-pubDate: '2026-03-24'
+pubDate: '2026-03-29'
 heroImage: './assets/guild/GuildThumb.png'
 ---
 
