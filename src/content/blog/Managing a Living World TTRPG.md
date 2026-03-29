@@ -5,7 +5,7 @@ pubDate: '2026-03-24'
 heroImage: './assets/blog-placeholder-3.jpg'
 ---
 
-TLDR: I have been running a **lot** of westmarches, see [[#The Endgame Solution to Everything]] on how I run it now using a custom tool dedicated for this purpose.
+TLDR: I have been running a **lot** of westmarches, see [the endgame solution to everything](#the-endgame-solution-to-everything) on how I run it now using a custom tool dedicated for this purpose.
 
 # Backstory
 I have been running living world style campaigns[^1] (also called *west-marches*) since late 2021. It came as a necessity since I started a "little TTRPG community"[^2] in my school and quickly had much more players than I had GMs[^3].
@@ -44,8 +44,11 @@ What is guild? First off: It's not for you, it's for me. I'm not trying to sell 
 Users go to the dedicated website on our domain and log in using their e-mail & password, google, or discord. 
 They then create their character using Name, Class & Ancestry, an optional link to DnDBeyond or anything else they want.
 There's a list of sessions on the right they can either put themselves as "interested" in or join right away with a character of their choosing.
+There's a "Feed" at the bottom with level ups of people's characters, ranks or other cool thing to bolster some community.
 
-![[Guild_01.png]]
+In our case, we're running both DnD5.5 and PF2r. There's a filter in the top right and a light mode (for some reason, nobody uses it).
+
+![Guild Interface](./assets/Guild_01.png)
 
 
 [^1]: https://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/
